@@ -1,71 +1,117 @@
-<h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Clayton+Hamilton%2C+PharmD;Welcome+to+my+README" alt="Typing SVG" /></a>
-</h1>
-<br>
-<p><img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px">
-I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
-This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
-Today, the sun rose at <b>07:44 AM</b> and sets at <b>06:41 PM</b>. 
-As of <b>06:53 PM MST </b> the temperature is <b>63.2°F</b> 👌😄.</p>
-<br>
-The air quality in my area is currently <b>moderate (PM10: 80.59)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
-matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
-<br>
-<br>
-So far, this repo has been collecting PM10 air quality data three times per day for the last <b>1500</b> days.
-During this time, <b>1563</b> of <b>4454</b> ( <b>35.1% </b>) of all PM10 points collected
-exceeded the recommended US EPA level of 50 PM10.
-<br>
-<br>
-<p align="center">
-  <img src="PM10_plot_2026.png" width="600" height="400">
-<img src="PM10_plot_2025.png" width="600" height="400">
-<img src="PM10_plot_2024.png" width="600" height="400">
-<img src="PM10_plot_2023.png" width="600" height="400">
-<img src="PM10_plot_2022.png" width="600" height="400">
 
-</p>
-<br>
-</p>
-<h3><a href="https://scholar.google.com/citations?hl=en&user=53-926AAAAAJ&view_op=list_works&sortby=pubdate"><b>Find my recent publications on my Google Scholar profile</b></a></h3>
-<h3>My Blog Post(s)</h3>
-<ul>
-  <li><a href="https://clayton-hamilton.medium.com/is-a-pharmacy-residency-right-for-you-9660f6e35fcb"><b>Is pharmacy residency right for you?</b></a><br/><i>Things to ponder prior to entering the ASHP match process.</i></li>
-</ul>
-<h3 align="center">📄 Favorite Languages:</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Ali+Gad+Ali;Data+Analyst+%7C+BI+Enthusiast;Turning+Data+Into+Insights" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">
+  Data Analyst | Business Intelligence | Data Visualization
+</h3>
+
 <p align="center">
-<a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/></a> 
+  <img src="https://img.shields.io/badge/Student-Mansoura_University-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Data_Analytics-00C7B7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Egypt-red?style=for-the-badge" />
 </p>
-<h3 align="center">⚒ Tools I use:</h3>
+
+---
+
+## 👋 About Me
+
+Hi! I'm **Ali Gad Ali**, a fourth-year Computer and Information Sciences student at **Mansoura University, Egypt**.
+
+I'm passionate about data analysis, business intelligence, and transforming raw data into meaningful insights that support better business decisions.
+
+I have been developing my skills in data analysis, data visualization, data modeling, and programming. I'm also exploring Business Intelligence and automation to build more efficient data workflows.
+
+- 🎓 Fourth-year Computer and Information Sciences student.
+- 📊 Interested in Data Analytics and Business Intelligence.
+- 🛠️ Learning and working with Excel, Power BI, SQL, Python, and Tableau.
+- ⚙️ Exploring BI solutions and automation.
+- 🌱 Continuously improving my technical and communication skills.
+- 🌐 Working toward English proficiency at the B2 level.
+
+---
+
+## 🧰 Skills & Technologies
+
+### 📊 Data Analysis & Excel
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Pivot-107C41?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pivot_Tables-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
+### 📈 Business Intelligence & Visualization
+
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Modeling-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
+### 💻 Programming & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- 📁 Build practical Data Analytics portfolio projects.
+- 📊 Create interactive Power BI dashboards.
+- 🗄️ Strengthen SQL querying and data analysis skills.
+- 🐍 Improve Python skills for data analysis and automation.
+- ⚙️ Explore Business Intelligence workflows and automation.
+- 💼 Prepare for Data Analyst internships and entry-level opportunities.
+
+---
+
+## 📂 Featured Projects
+
+I'm building my portfolio and will showcase my projects here.
+
+<!-- Replace the example links below with your actual project repositories. -->
+
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Excel-Data_Analysis-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Power_BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/SQL-Data_Analysis-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Python-Data_Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📫 Connect With Me
+
 <p align="center">
-<a target="_blank"><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"/></a> 
-<a target="_blank"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%2312100E.svg?logo=visual-studio&style=for-the-badge&logoColor=purple"/></a> 
-<a target="_blank"><img alt="Report Builder" src="https://img.shields.io/badge/Report%20Builder-%2312100E.svg?logo=Power%20BI&logoColor=red&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="Power BI" src="https://img.shields.io/badge/PowerBI-black?logo=Power%20BI&logoColor=yellow&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-%2312100E.svg?logo=git&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/></a> 
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
-<h3 align="center">Find me on</h3>
-<p align="center"><a 
-href="https://github.com/claytonjhamilton" target="_blank"><img alt="Github" 
-src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
-href="https://www.linkedin.com/in/clayton-j-hamilton" target="_blank"><img alt="LinkedIn" 
-src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> <a 
-href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" 
-src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a><br><a 
-href="https://stackoverflow.com/users/14122375/hamiltonpharmd" target="_blank"><img alt="StackOverflow" 
-src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /></a> 
-</p>
+
+---
+
 <p align="center">
-<br>
-<text>I know a lot about artificial intelligence. But not as much as it knows about me.<br> —Dave Waters, Geology Professor and Machine Learning enthusiast</text>
+  <i>"Without data, you're just another person with an opinion."</i>
 </p>
-<br>
+
 <p align="center">
-  <img alt="centered image" height="85" src="images/us.svg"/>
-  <br>
-  <img alt="README Update" 
-  src="https://github.com/claytonjhamilton/claytonjhamilton/actions/workflows/readme_update.yaml/badge.svg" />
-  <br>
+  ⭐ Thanks for visiting my profile!
+</p>
